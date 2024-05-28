@@ -1,0 +1,6 @@
+flask
+Werkzeug
+Jinja2
+scikit-learn==1.2.2
+category_encoders
+pandas
